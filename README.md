@@ -18,4 +18,4 @@ including machine learning projects and algorithms as well as data analysis/visu
   
 * Data Analysis/Visualizations
   - Google analytics customer revenue prediction (visualizations)
-  - Buyers' journey content heat map
+  - [Buyers' journey content heat map](/content-heatmap/Content_Heatmap.ipynb)
