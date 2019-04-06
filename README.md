@@ -18,4 +18,4 @@ including machine learning projects and algorithms as well as data analysis/visu
   
 * Data Analysis/Visualizations
   - Google analytics customer revenue prediction (visualizations)
-  - [Buyers' journey content heat map](/content-heatmap/Content_Heatmap.ipynb)
+  - [Buyers' journey content heat map:](/content-heatmap/Content_Heatmap.ipynb) This is a simplified version of the projects I did for [Highspot](https://www.highspot.com). The goal is to find the effectiveness of the content used by the sales reps and account executives along the buyers' journey to purchase.
