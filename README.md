@@ -7,15 +7,13 @@ including machine learning projects and algorithms as well as data analysis/visu
 ## Content
 
 
-* Machine Learning
-  - Projects
-    - Google analytics customer revenue prediction
+* Machine Learning (Projects)
+  - Google analytics customer revenue prediction
   
   
-  
-  - Algorithms
-    - Lasso
-    - K-means
+* Machine Learning (Algorithms) 
+  - Lasso
+  - K-means
   
   
 * Data Analysis/Visualizations
